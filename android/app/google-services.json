@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "511369017673",
+    "firebase_url": "https://agendamento-clube-31ec1-default-rtdb.firebaseio.com",
+    "project_id": "agendamento-clube-31ec1",
+    "storage_bucket": "agendamento-clube-31ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511369017673:android:d2f76d4c177c2742254298",
+        "android_client_info": {
+          "package_name": "com.example.agendamento_clube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL8CLkJzZfHXDr5PZwVSzI_Xv64cMsKeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
